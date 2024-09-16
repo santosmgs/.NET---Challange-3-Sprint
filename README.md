@@ -34,15 +34,40 @@ Escolhemos uma arquitetura monolítica para este projeto. Na arquitetura monolí
 
 Para rodar o código essa intalações são necessárias
 
-1. **PACOTES**
+1. **Microsoft.AspNetCore.Mvc**
 
    ```bash
    dotnet add package Microsoft.AspNetCore.Mvc --version 2.2.0
-   dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0
+   ```
+
+2. **Microsoft Entity FrameworkCore**
+
+   ```bash
+   dotnet add package Microsoft.AspNetCore.Mvc --version 2.2.0
+   ```
+   
+3. **Microsoft Entity FrameworkCore SqlServer**
+   ```bash
    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 8.0.0
+   ```
+   
+4. **Microsoft Extensions Hosting**
+   ```bash
    dotnet add package Microsoft.Extensions.Hosting --version 8.0.0
+   ```
+
+5. **Oracle Entity FrameworkCore**
+   ```bash
    dotnet add package Oracle.EntityFrameworkCore --version 8.21.140
+   ```
+
+6. **Oracle Managed DataAccess Core**
+   ```bash
    dotnet add package OracleManagedDataAccess.Core --version 23.5.1
+   ```
+
+7. **Swashbuckle AspNetCore**
+   ```bash
    dotnet add package Swashbuckle.AspNetCore --version 6.5.0
    ```
 
