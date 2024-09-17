@@ -20,7 +20,7 @@ Escolhemos uma arquitetura monolítica para este projeto. Na arquitetura monolí
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - Oracle Database
-- Rider ou Visual Code
+- Rider ou Visual Studio Code
 
 ### Configuração
 
