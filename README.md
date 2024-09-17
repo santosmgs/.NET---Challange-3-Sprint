@@ -27,7 +27,7 @@ Escolhemos uma arquitetura monolítica para este projeto. Na arquitetura monolí
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/upstyle-api.git
+   git clone https://github.com/santosmgs/.NET---Challange-3-Sprint.git
    cd UpStyle
 
 ### Instalação de Pacotes
