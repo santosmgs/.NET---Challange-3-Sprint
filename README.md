@@ -28,7 +28,7 @@ Escolhemos uma arquitetura monolítica para este projeto. Na arquitetura monolí
 
    ```bash
    git clone https://github.com/seu-usuario/upstyle-api.git
-   cd upstyle-api
+   cd UpStyle
 
 ### Instalação de Pacotes
 
