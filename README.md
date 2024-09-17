@@ -43,7 +43,7 @@ Para rodar o código essa intalações são necessárias
 2. **Microsoft Entity FrameworkCore**
 
    ```bash
-   dotnet add package Microsoft.EntityFrameworkCore ---version 8.0.0
+   dotnet add package Microsoft.EntityFrameworkCore
    ```
    
 3. **Microsoft Entity FrameworkCore SqlServer**
